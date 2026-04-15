@@ -8,60 +8,71 @@
 
 ---
 
-## 🙋 About Me
+## About Me
 
-- 🏢 **YES E&C** 풀스택 개발자
-- 🛡️ 환경안전보건 관리 시스템(EHSS) 개발 중
-- 🤖 AI / LLM 활용에 관심이 많습니다
-- 🌱 더 나은 코드를 위해 매일 성장하고 있습니다
+- **YES E&C** 풀스택 개발자 (5년)
+- 환경안전보건 관리 시스템(EHSS) 설계/운영
+- AI 에이전트 설계 및 업무 자동화
+- 백엔드 기술 스택 확장 중 (Node.js, Go, AWS)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Database & Infra**
+**Database**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Infra / DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Interest**
+**AI / Tools**
 
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Agent-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📂 Projects
+## Projects
 
 <div align="center">
 
 | 프로젝트 | 설명 | 기술 |
 |:--------:|------|------|
-| **📈 Stock Journal** | 매매일지 앱 — [www.매매일지.com](http://www.매매일지.com) | Next.js, TypeScript, Tailwind CSS, Supabase, Gemini API |
-| **🛡️ EHSS** | 환경안전보건 관리 시스템 (EMIS) | Java 1.8, Spring Boot, MyBatis, Oracle, JSP, jQuery |
+| **[Collab API](https://github.com/yescjs/collab-api)** | 실시간 협업 태스크 관리 REST API — JWT/RBAC 인증, WebSocket 실시간 알림, AWS 배포, CI/CD | Node.js, Express, TypeScript, Prisma, PostgreSQL, Socket.io, Docker, AWS EC2/RDS, Nginx, GitHub Actions |
+| **[Stock Journal](http://www.xn--2i0bm4p0sfq5g.com)** | 주식 매매일지 서비스 — 기획부터 배포까지 풀스택 개발 | Next.js, TypeScript, Tailwind CSS, Supabase, Gemini API |
+| **EHSS** | 환경안전보건 관리 시스템 — 대기업 4개 사업장 운영 | Java, Spring Boot, MyBatis, Oracle, JSP, jQuery |
 
 </div>
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
