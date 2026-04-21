@@ -13,6 +13,7 @@
 - **YES E&C** 풀스택 개발자 (5년)
 - 환경안전보건 관리 시스템(EHSS) 설계/운영
 - AI 에이전트 설계 및 업무 자동화
+- 대용량 데이터 파이프라인 학습 중 (Kafka, ClickHouse, Grafana)
 - 백엔드 기술 스택 확장 중 (Node.js, Go, AWS)
 
 ---
@@ -42,7 +43,17 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Messaging**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Monitoring**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Infra / DevOps**
 
@@ -67,6 +78,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |:--------:|------|------|
+| **[Ad Event Pipeline](https://github.com/yescjs/ad-event-pipeline)** | 광고 이벤트 비동기 파이프라인 — Kafka Producer/Consumer/DLQ, ClickHouse Materialized View로 시간대별 집계 자동화(1만 건에서 6배 압축·초당 약 2,500건 적재 실측), Grafana 3패널 대시보드, Docker Compose 6컨테이너, Gradle 멀티 모듈, TDD 24개 테스트 | Java 17, Spring Boot 3.2, Kafka, ClickHouse, MariaDB, Prometheus, Grafana, Docker Compose, Gradle Multi-Module |
 | **[Spring JPA Board](https://github.com/yescjs/spring-jpa-board)** | Spring Boot + JPA 게시판 API — N+1 해결(98%), Redis 캐싱(78.8%), Querydsl 동적 검색, @Version 낙관적 락, 23개 테스트 | Java 17, Spring Boot 3.5, JPA, Querydsl, MySQL, Redis, k6, JUnit 5 |
 | **[Exchange Rate API](https://github.com/yescjs/exchange-rate-api)** | Go/Gin REST API — Redis TTL 캐싱으로 P95 응답시간 98.6% 개선(243ms→3.3ms), 처리량 190배, TDD 도메인 커버리지 100% | Go, Gin, Redis, PostgreSQL, Docker, k6, TDD |
 | **[Collab API](https://github.com/yescjs/collab-api)** | 실시간 협업 태스크 관리 REST API — JWT/RBAC 인증, WebSocket 실시간 알림, AWS 배포, CI/CD | Node.js, Express, TypeScript, Prisma, PostgreSQL, Socket.io, Docker, AWS EC2/RDS, Nginx, GitHub Actions |
