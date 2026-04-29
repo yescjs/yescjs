@@ -82,7 +82,7 @@
 | **[Spring JPA Board](https://github.com/yescjs/spring-jpa-board)** | Spring Boot + JPA 게시판 API — N+1 해결(98%), Redis 캐싱(78.8%), Querydsl 동적 검색, @Version 낙관적 락, 23개 테스트 | Java 17, Spring Boot 3.5, JPA, Querydsl, MySQL, Redis, k6, JUnit 5 |
 | **[Exchange Rate API](https://github.com/yescjs/exchange-rate-api)** | Go/Gin REST API — Redis TTL 캐싱으로 P95 응답시간 98.6% 개선(243ms→3.3ms), 처리량 190배, TDD 도메인 커버리지 100% | Go, Gin, Redis, PostgreSQL, Docker, k6, TDD |
 | **[Collab API](https://github.com/yescjs/collab-api)** | 실시간 협업 태스크 관리 REST API — JWT/RBAC 인증, WebSocket 실시간 알림, AWS 배포, CI/CD | Node.js, Express, TypeScript, Prisma, PostgreSQL, Socket.io, Docker, AWS EC2/RDS, Nginx, GitHub Actions |
-| **[Stock Journal](http://www.xn--2i0bm4p0sfq5g.com)** | 주식 매매일지 서비스 — 기획부터 배포까지 풀스택 개발 | Next.js, TypeScript, Tailwind CSS, Supabase, Gemini API |
+| **[Stock Journal](http://www.xn--9z2ba455hkgc.com/ko)** | 주식 매매일지 서비스 — 기획부터 배포까지 풀스택 개발 | Next.js, TypeScript, Tailwind CSS, Supabase, Gemini API |
 | **EHSS** | 환경안전보건 관리 시스템 — 대기업 4개 사업장 운영 | Java, Spring Boot, MyBatis, Oracle, JSP, jQuery |
 
 </div>
