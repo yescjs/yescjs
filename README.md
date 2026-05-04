@@ -10,7 +10,7 @@
 
 ## About Me
 
-- **YES E&C** 풀스택 개발자 (5년)
+- **YES E&C** 풀스택 개발자 (3년)
 - 환경안전보건 관리 시스템(EHSS) 설계/운영
 - AI 에이전트 설계 및 업무 자동화
 - 대용량 데이터 파이프라인 학습 중 (Kafka, ClickHouse, Grafana)
